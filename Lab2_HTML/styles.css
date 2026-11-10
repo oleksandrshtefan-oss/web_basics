@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 16px;
+  color: #222;
+  background: #f7f7f7;
+  line-height: 1.5;
+}
+
+h1 { color: #1a4f8b; text-align: center; }
+h2 { color: #2c6fb7; }
+a { color: #d9730d; }
+a:hover { text-decoration: none; }
+img { display: block; margin: 10px 0; }
+nav img { margin: 0; }
